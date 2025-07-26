@@ -39,7 +39,7 @@ This project provides two implementations of an attendance calculator: a Python 
 8. The script will display the updated attendance percentage after the leave.
 
 ### Web Version
-1. Visit the hosted site at [websitexx.com](http://websitexx.com).
+1. Visit the hosted site at [Attendance Calculator](https://gagannchandra.github.io/Attendance-Calculator/).
 2. Alternatively, for local testing:
    - Place `index.html`, `styles.css`, and `script.js` in the same directory.
    - Open `index.html` in a web browser.
@@ -63,7 +63,7 @@ Thank you for using the Attendance Calculator!
 ```
 
 ### Web Version
-1. Input on [websitexx.com](http://websitexx.com):
+1. Input on [Attendance Calculator](https://gagannchandra.github.io/Attendance-Calculator/):
    - Total Lectures: 100
    - Total Absences: 10
    - OAA: 2
