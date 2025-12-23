@@ -20,4 +20,4 @@ if flag.lower() in ["y", "yes"]:
     print(f"Your attendance percentage after taking leave is: {attendance_percentage:.2f}%")
     print("\nThank you for using the Attendance Calculator!")
 else:
-    print("\nThank you for using the Attendance Calculator!")
+    print("\nThank you for using the Attendance Calculator!") 
